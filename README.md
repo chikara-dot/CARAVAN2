@@ -1,24 +1,44 @@
-# README
+# CーDiscussions
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
 
-Things you may want to cover:
+自身が興味のあるカテゴリーを追加し、それについて画像投稿したり、コメントをするサイト
 
-* Ruby version
+### サイトテーマ
 
-* System dependencies
+自身が興味のあるカテゴリーの内容が表示されることにより、話す内容をそのカテゴリーに絞ることによって、誹謗中傷などの人を不快にさせるような言葉が目に入らない SNS サイトになってほしい。
 
-* Configuration
+### テーマを選んだ理由
 
-* Database creation
+Twitter などの SNS でイジメや誹謗中傷が年々増えてきているので、Twitter のように何でも投稿やコメントをすることができるのではなく、テーマを絞った SNS を作ればイジメや誹謗中傷が減ると考えたから。
 
-* Database initialization
+### ターゲットユーザ
 
-* How to run the test suite
+共通の趣味を持つ知り合いが欲しい方。
 
-* Services (job queues, cache servers, search engines, etc.)
+### 主な利用シーン
 
-* Deployment instructions
+仕事や学校終わり。休みの日などのプライベートな時間
 
-* ...
+## 設計書
+
+### テーブル定義書
+
+### ER 図
+
+## チャレンジ要素一覧
+
+https://docs.google.com/spreadsheets/d/1rqVvi_Q2jGNXigc3CjUsRVR74CmRIyHXqFSBbIRPcJ4/edit?usp=sharing
+
+## 開発環境
+
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JS ライブラリ：jQuery
+- IDE：Cloud9
+
+## 使用素材
+
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名と URL を明記してください。
+- 使用しない場合は、使用素材の項目を README から削除してください。
