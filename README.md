@@ -22,10 +22,17 @@ Twitter などの SNS でイジメや誹謗中傷が年々増えてきている�
 趣味について調べたい時、趣味を共有する人とコミュニケーションを取りたい時、同じ趣味を持つ人を探したい時。
 
 ## 設計書
+### ワイヤーフレーム
+#### エンドユーザ
+https://cacoo.com/diagrams/fC1SSG1PDHXx9UaX/9A02F
+
 
 ### テーブル定義書
 
 ### ER 図
+https://cacoo.com/diagrams/vhBopC2hN3lL4TyE/350BD
+
+
 
 ## チャレンジ要素一覧
 
