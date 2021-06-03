@@ -25,6 +25,8 @@ Twitter などの SNS でイジメや誹謗中傷が年々増えてきている�
 ### ワイヤーフレーム
 #### エンドユーザ
 https://cacoo.com/diagrams/fC1SSG1PDHXx9UaX/9A02F
+#### 管理者
+https://cacoo.com/diagrams/crA9XuEDV9MksDrU-CFC70.png
 
 
 ### テーブル定義書
